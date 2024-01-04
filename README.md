@@ -4,7 +4,7 @@ It's a temperature independent voltage reference with transistor only.
 
 ## How it works
 
-In the temperature range 0-50 °C, the output voltage varies by 0.056%. Boundary conditions: Input voltage = 5V)
+Vref = ~1.27V. In the temperature range 0-50 °C, the output voltage varies by 0.056%. (Boundary condition: Input voltage = 5V)
 
 ![alt text](https://vargalaszlo.com/images/out/widlar-bandgap-sch.jpg)
 
