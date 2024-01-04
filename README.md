@@ -1,9 +1,10 @@
-# widlar-bandgap
+# Widlar Bandgap Voltage Reference
+
 It's a temperature independent voltage reference with transistor only.
 
 ## How it works
 
-The LTspice simulation file contains this circuit. The **first transistor stage** is a mixer and oscillator, the **second** is a small and simple amplifier stage. In first stage I use an AF transformer from an old radio (NEYWA 402) for the audio signal, but you can use other type too. Not critical.
+In the temperature range 0-50 °C, the output voltage varies by 0.056%. Boundary conditions: Input voltage = 5V)
 
 ![alt text](https://vargalaszlo.com/images/out/widlar-bandgap-sch.jpg)
 
@@ -11,3 +12,10 @@ Oscillogram from LTSpice:
 
 ![alt text](https://vargalaszlo.com/images/out/widlar-bandgap-sim.jpg)
 
+## Contact
+
+Varga Laszlo - https://vargalaszlo.com - mail@vargalaszlo.com.com
+
+Project Link: https://github.com/vargalaszlo87/widlar-bandgap
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://vargalaszlo.com)
