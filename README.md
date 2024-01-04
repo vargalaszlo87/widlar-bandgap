@@ -12,6 +12,10 @@ Oscillogram from LTSpice:
 
 ![alt text](https://vargalaszlo.com/images/out/widlar-bandgap-sim.jpg)
 
+## Other
+
+This circuit is part of an ongoing power supply project.
+
 ## Contact
 
 Varga Laszlo - https://vargalaszlo.com - mail@vargalaszlo.com.com
