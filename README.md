@@ -6,17 +6,20 @@ It's a temperature independent voltage reference with transistor only.
 
 Vref = 1.278V. In the temperature range 0-50 °C, the output voltage varies by 0.056%. (Boundary condition: Input voltage = 5V)
 
-![alt text](https://vargalaszlo.com/images/out/widlar-bandgap-sch.jpg)
+![image](https://github.com/user-attachments/assets/b57e7f0b-6101-470c-97e5-111bc2423cd4)
+
 
 Oscillogram from LTSpice:
 
-![alt text](https://vargalaszlo.com/images/out/widlar-bandgap-sim.jpg)
+![image](https://github.com/user-attachments/assets/92afff69-af87-415e-a364-f61b368ffe9b)
 
-## Other
 
-This circuit is part of an ongoing power supply project.
+## 👨‍⚖️ License
 
-## Contact
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See `LICENSE.txt` for more information.
+
+
+## 📬 Contact
 
 Varga Laszlo - https://vargalaszlo.com - mail@vargalaszlo.com.com
 
